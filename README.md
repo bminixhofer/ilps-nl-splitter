@@ -1,4 +1,4 @@
-This repository contains the nl-splitter compound segmentation tool for archival purposes since the original website (ilps.science.uva.nl/resources/compound-splitter-nl/) is no longer available. See https://web.archive.org/web/20200813005715/https://ilps.science.uva.nl/resources/compound-splitter-nl/ for an archived version of the website. All credit goes to the original authors. Find the original README below.
+This repository contains the nl-splitter compound segmentation tool for archival purposes since the original website (https://ilps.science.uva.nl/resources/compound-splitter-nl/) is no longer available. See https://web.archive.org/web/20200813005715/https://ilps.science.uva.nl/resources/compound-splitter-nl/ for an archived version of the website. All credit goes to the original authors. Find the original README below.
 
 ---
 
